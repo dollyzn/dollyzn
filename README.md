@@ -1,16 +1,16 @@
-### Hi there 👋
+<h1 align="center">Olá! Sou o Natã, ou dolly 👋</h1>
 
-<!--
-**dollyzn/dollyzn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Sou Técnico em Informática e aventureiro em fórums, repositórios e sites de documentações das mais diversas linguagens de programação 😉</h3>
 
-Here are some ideas to get you started:
+<h4 align="center">Atualmente trabalho em uma clínica. Nas horas vagas desenvolvendo e aprimorando aplicações. 💻</h4>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <a href="https://github.com/dollyzn">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dollyzn&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dollyzn&layout=compact&langs_count=16&theme=chartreuse-dark" />
+<div>
+  
+  </br>
+<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/dollyzn/count.svg" /></p>
+  
+  ![Snake animation](https://github.com/dollyzn/dollyzn/blob/output/github-contribution-grid-snake.svg)

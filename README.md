@@ -1,4 +1,4 @@
-<h1 align="center">Olá! Sou o Natã, ou dolly 👋</h1>
+<h1 align="center">Olá! Sou o dolly, ou Natã 👋</h1>
 
 <h3 align="center">Sou Técnico em Informática e aventureiro em fórums, repositórios e sites de documentações das mais diversas linguagens de programação 😉</h3>
 

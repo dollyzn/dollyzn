@@ -11,6 +11,6 @@
 <div>
   
   </br>
-<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/dollyzn/count.svg" /></p>
+<p align="center"> Visitor Count <br>  <img alingn="center" src="https://profile-counter.glitch.me/dollyzn/count.svg" /></p>
   
   ![Snake animation](https://github.com/dollyzn/dollyzn/blob/output/github-contribution-grid-snake.svg)

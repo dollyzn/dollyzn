@@ -2,7 +2,7 @@
 
 <h3 align="center">Sou Técnico em Informática e aventureiro em fórums, repositórios e sites de documentações das mais diversas linguagens de programação 😉</h3>
 
-<h4 align="center">Atualmente trabalho em uma clínica. Nas horas vagas desenvolvendo e aprimorando aplicações. 💻</h4>
+<h4 align="center">Atualmente faço oque me der na telha :D</h4>
 
 <div>
   <a href="https://github.com/dollyzn">
